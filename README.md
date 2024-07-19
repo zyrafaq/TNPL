@@ -78,4 +78,4 @@ I want to eventually reverse engineer all of the packets that Terraria uses to c
 - Create setup.py and make it a legit python library!
 
 ## Credit
-Again, a huge thanks to [mrkite's terrafirma tnp page](https://seancode.com/terrafirma/net.html). All other references can be found in [REFERENCES.md](https://github.com/sstock2005/tnp/blob/main/REFERENCES.md).
+Again, a huge thanks to [mrkite's terrafirma tnp page](https://seancode.com/terrafirma/net.html). All other references can be found in [REFERENCES.md](https://github.com/sstock2005/TNPL/blob/main/REFERENCES.md).
